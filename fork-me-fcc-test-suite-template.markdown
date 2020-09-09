@@ -1,7 +1,3 @@
-Fork Me! FCC: Test Suite Template
+Tribute Page
 ---------------------------------
-
-
-A [Pen](https://codepen.io/freeCodeCamp/pen/MJjpwO) by [freeCodeCamp.org](https://codepen.io/freeCodeCamp) on [CodePen](https://codepen.io).
-
-[License](https://codepen.io/freeCodeCamp/pen/MJjpwO/license).
+ A challenge project for FreeCodeCamp.org Responsive Web Design certification.
