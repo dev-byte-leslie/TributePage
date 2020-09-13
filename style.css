@@ -1,10 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat&family=Roboto&display=swap');
+
+#title{
+  font-family: 'Merriweather', serif;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+#subtitle{
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+#heading{
+  background-color: #bdbdbd;
+  border:3px solid black;
+  border-radius: 10px;
+  margin-bottom: 3%;
+}
+
+#main{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  background-color: #eeeeee
+}
+
 img {
-  max-width: 100%;
-  display: block;
+  max-width: 50%;
   height: auto;
-  margin: 0 auto;
+  display: block;
+  margin: 0px auto;
+  border:20px solid white;
+}
+
+#img-caption{
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 #img-div{
-  text-align: center;
+  margin: 3% 0px 3%;
+}
+
+#info-div{
+  margin-left: 10%;
+  margin-right: 10%;
 }
